@@ -1,6 +1,6 @@
 ## Read this to be safe
 
-Downloading plugins only from this repo is recommended, i do not take any responsibility if you download a malicious lua plugin from another site.
+Downloading plugins only from this repo is recommended (i check plugins that are uploaded here but remember i might not spot something suspicious when ppl will pr), i do not take any responsibility if you download a malicious lua plugin from another site.
 
 ## Remember
 Always check code of the lua plugins before using them!

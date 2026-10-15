@@ -9,9 +9,11 @@ Always check code of the lua plugins before using them!
 
 ### Plugins
 - Plugin manager (manager.lua)
-- Lirycs in rs-pug (lirycs.lua) (this plugin WILL freeze your app while searching for lyrics, dependent on your network speed and the lirycs api speed)
+- Lirycs in rs-pug (lirycs.lua) (if this plugin freezes your rs-pug then update it, rs-pug plugins now work asyc, holy shit how old is your rs-pug...)
 - Show hiqh quality version of songs first (hq.lua)
 - Discord rich presence (discord_rich_presence.lua)
+- Minimal Ui (minimal_ui.lua)
+- Last FM integration (lastfm.lua)
 
 ### Themes
 - Forest
